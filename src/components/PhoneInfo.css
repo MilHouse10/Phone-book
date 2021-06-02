@@ -1,5 +1,7 @@
 .div{
     border: 1px solid black;
+    width: 20%;
     padding: 8px;
     margin: 8px;
+    background-color: lightgray;
 }
